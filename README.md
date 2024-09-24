@@ -2,7 +2,7 @@ My Portfolio Website
 
 Welcome to my portfolio website! This project showcases my skills using HTML and basic CSS. The website is designed to be simple, clean, and easy to navigate.
 
-You can access my portfolio website by visiting [link]
+You can access my portfolio website by visiting [https://arjunxlee-04.github.io/portfolio-simple-website/index.html]
 
 ### Features
 - **Home Page**: An introduction to who I am and what I do.
